@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         Bilibili 弹幕装填数恢复
+// @name:en      Bilibili Restore Loaded Danmaku Count
 // @namespace    https://github.com/HeCPDF/bilibili-dm-restore
-// @version      1.6
+// @version      1.7
 // @description  恢复B站视频播放器中被灰度下掉的「已装填xx条弹幕」功能显示
+// @description:en  Restore the "N danmaku loaded" count display that Bilibili removed from its video player
 // @author       HeCPDF
 // @match        *://www.bilibili.com/video/*
 // @match        *://www.bilibili.com/list/*
 // @icon         https://www.bilibili.com/favicon.ico
+// @license      MIT
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
